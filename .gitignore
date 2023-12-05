@@ -24,3 +24,4 @@ cabal.project.local~
 .HTF/
 .ghc.environment.*
 .vscode/tasks.json
+src/workings-day04.hs
